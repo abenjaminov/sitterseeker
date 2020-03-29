@@ -21,7 +21,6 @@
 .env.production.local
 /ifiun
 /temp_solution
-openapi.yaml
 nodejs-server-server-generated.zip
 .vscode/
 
