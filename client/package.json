@@ -12,7 +12,7 @@
     "@turf/turf": "^5.1.6",
     "ag-grid-community": "^23.0.0",
     "ag-grid-react": "^23.0.0",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "cheerio": "^1.0.0-rc.3",
     "compose": "^0.1.2",
     "is-empty": "^1.2.0",
